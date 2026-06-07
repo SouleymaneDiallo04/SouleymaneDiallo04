@@ -14,22 +14,22 @@
 <!-- ============================ EN-TÊTE (style Ange Bado) ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093AA,45:6A5ACD,100:00D4FF&height=220&section=header&text=Souleymane%20Diallo&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%C2%B7%20ENSAM-Mekn%C3%A8s%20%C2%B7%20IATD-SI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:9D4EDD,100:FF6AC2&height=220&section=header&text=Souleymane%20Diallo&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%C2%B7%20ENSAM-Mekn%C3%A8s%20%C2%B7%20IATD-SI&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00D4FF&center=true&vCenter=true&width=840&lines=%3E+booting+AI+engineer...+%E2%9C%93;Machine+Learning+%E2%9C%A8+Deep+Learning+%E2%9C%A8+Computer+Vision;Maintenance+Predictive+%E2%9C%A8+NLP+%E2%9C%A8+LLM+%2F+RAG;De+la+donnee+brute+a+la+decision+industrielle+%E2%9A%99%EF%B8%8F;Building+models.+Shipping+products.+Learning.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF6AC2&center=true&vCenter=true&width=840&lines=%3E+booting+AI+engineer...+%E2%9C%93;Machine+Learning+%E2%9C%A8+Deep+Learning+%E2%9C%A8+Computer+Vision;Maintenance+Predictive+%E2%9C%A8+NLP+%E2%9C%A8+LLM+%2F+RAG;De+la+donnee+brute+a+la+decision+industrielle+%E2%9A%99%EF%B8%8F;Building+models.+Shipping+products.+Learning.+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![STATUS](https://img.shields.io/badge/STATUS-ONLINE-00D4FF?style=for-the-badge)
-![MAIN](https://img.shields.io/badge/MAIN-AI%20%2F%20DEEP%20LEARNING-6A5ACD?style=for-the-badge)
-![FIELD](https://img.shields.io/badge/FIELD-INDUSTRIAL%20AI-00A37A?style=for-the-badge)
+![STATUS](https://img.shields.io/badge/STATUS-ONLINE-FF6AC2?style=for-the-badge)
+![MAIN](https://img.shields.io/badge/MAIN-AI%20%2F%20DEEP%20LEARNING-9D4EDD?style=for-the-badge)
+![FIELD](https://img.shields.io/badge/FIELD-INDUSTRIAL%20AI-6A5ACD?style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/[TON-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sd100615@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/SouleymaneDiallo04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=SouleymaneDiallo04&style=for-the-badge&color=00D4FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=SouleymaneDiallo04&style=for-the-badge&color=FF6AC2&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -137,12 +137,12 @@ Frontend / Dashboards      █████████████░░░░�
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SouleymaneDiallo04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneDiallo04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SouleymaneDiallo04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneDiallo04&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=SouleymaneDiallo04&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=SouleymaneDiallo04&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -159,6 +159,6 @@ Une idée de projet en **IA industrielle**, **vision par ordinateur** ou **LLM /
 <a href="https://www.linkedin.com/in/[TON-LINKEDIN]"><img src="https://img.shields.io/badge/Me%20contacter%20sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sd100615@gmail.com"><img src="https://img.shields.io/badge/M'%C3%A9crire-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,55:6A5ACD,100:0093AA&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6AC2,50:9D4EDD,100:6A5ACD&height=120&section=footer"/>
 
 </div>
