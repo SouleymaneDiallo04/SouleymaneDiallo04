@@ -1,22 +1,29 @@
 <!--
-  README DE PROFIL GITHUB de Souleymane Diallo
+  README DE PROFIL GITHUB — Souleymane Diallo
   >>> À placer dans un dépôt nommé EXACTEMENT : SouleymaneDiallo04/SouleymaneDiallo04
-  >>> Remplace l'URL LinkedIn ci-dessous ([TON-LINKEDIN]) par la tienne.
+  >>> Remplace [TON-LINKEDIN] par l'identifiant de ton profil LinkedIn.
+
+  NOTE IMPORTANTE SUR LES IMAGES :
+  Les visuels (bannière, badges, stats) sont des images générées EN LIGNE.
+  Elles s'affichent de façon fiable sur github.com une fois le dépôt poussé.
+  Dans l'aperçu Markdown local de VS Code, certaines peuvent rester grises
+  (pare-feu / service momentanément indisponible). Ce n'est PAS une erreur
+  du fichier : pousse le dépôt et regarde le rendu sur github.com.
 -->
 
-<!-- ====================== EN-TÊTE (style Ange Bado) ====================== -->
+<!-- ============================ EN-TÊTE (style Ange Bado) ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093AA,50:6A5ACD,100:00D4FF&height=210&section=header&text=Souleymane%20Diallo&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%7C%20ENSAM-Mekn%C3%A8s%20%7C%20IATD-SI&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0093AA,45:6A5ACD,100:00D4FF&height=220&section=header&text=Souleymane%20Diallo&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%C2%B7%20ENSAM-Mekn%C3%A8s%20%C2%B7%20IATD-SI&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=Etudiant-ingenieur+en+IA+%26+Technologies+des+Donnees+%F0%9F%8E%93;Maintenance+predictive+%E2%80%A2+Computer+Vision+%E2%80%A2+NLP+%2F+RAG+%F0%9F%A4%96;De+la+donnee+brute+a+la+decision+industrielle+%E2%9A%99%EF%B8%8F;J'apprends%2C+je+construis%2C+je+livre+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00D4FF&center=true&vCenter=true&width=840&lines=%3E+booting+AI+engineer...+%E2%9C%93;Machine+Learning+%E2%9C%A8+Deep+Learning+%E2%9C%A8+Computer+Vision;Maintenance+Predictive+%E2%9C%A8+NLP+%E2%9C%A8+LLM+%2F+RAG;De+la+donnee+brute+a+la+decision+industrielle+%E2%9A%99%EF%B8%8F;Building+models.+Shipping+products.+Learning.+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 ![STATUS](https://img.shields.io/badge/STATUS-ONLINE-00D4FF?style=for-the-badge)
-![FOCUS](https://img.shields.io/badge/FOCUS-AI%20%2F%20DEEP%20LEARNING-6A5ACD?style=for-the-badge)
+![MAIN](https://img.shields.io/badge/MAIN-AI%20%2F%20DEEP%20LEARNING-6A5ACD?style=for-the-badge)
 ![FIELD](https://img.shields.io/badge/FIELD-INDUSTRIAL%20AI-00A37A?style=for-the-badge)
 
 <a href="https://www.linkedin.com/in/[TON-LINKEDIN]"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -28,29 +35,42 @@
 
 ---
 
-## 🧠 `$ whoami`
+## 👨‍💻 À propos de moi
 
 Étudiant-ingénieur en **Intelligence Artificielle et Technologies des Données — Systèmes Industriels** à l'**ENSAM-Meknès** (Université Moulay Ismaïl). Je conçois des **solutions d'IA appliquées à l'industrie** : de la donnée brute (signaux, images, texte, séries temporelles) jusqu'à la **décision actionnable**.
 
+```python
+class SouleymaneDiallo:
+    def __init__(self):
+        self.role      = "AI & Data Engineering Student"
+        self.school    = "ENSAM-Meknès · UMI · IATD-SI"
+        self.location  = "Maroc 🇲🇦"
+        self.focus     = ["Maintenance Prédictive", "Computer Vision", "LLM / RAG"]
+        self.languages = ["Français", "English"]
+
+    def current_work(self):
+        return "Des plateformes d'IA industrielle, robustes, explicables et utiles"
+```
+
 - 🔭 Je travaille sur la **maintenance prédictive industrielle**, la **vision par ordinateur** et les **systèmes à base de LLM (RAG, agents)**.
 - ⚙️ J'aime construire des **plateformes full-stack complètes** : modèles ML, API, interface et déploiement.
-- 🎯 Objectif : transformer la recherche appliquée en **produits robustes, explicables et utiles**.
+- 🎯 Mon objectif : transformer la recherche appliquée en **produits robustes, explicables et utiles**.
 - 🌍 Bilingue **FR / EN** · ouvert à la collaboration et aux opportunités (stage / projet).
 
 ---
 
-## 🛠️ `$ ./tech-stack --list`
+## 🛠️ Stack technique
 
 **Langages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**IA · Machine Learning · Deep Learning**
+**Machine Learning · Deep Learning**
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -67,16 +87,15 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-**Web · Backend · Dashboards**
+**Backend · Web · Dashboards**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**Données · Bases · Outils**
+**Données · Outils · MLOps**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -87,11 +106,25 @@
 
 ---
 
-## 🚀 `$ nmap -sV ./projects`
+## 📊 Domaines de prédilection
+
+```text
+IA / Machine Learning      ██████████████████░░   90%
+Computer Vision            ████████████████░░░░   80%
+NLP / LLM / RAG            ███████████████░░░░░   78%
+Backend / API              ███████████████░░░░░   78%
+Maintenance Prédictive     ██████████████████░░   88%
+Data Engineering           ██████████████░░░░░░   70%
+Frontend / Dashboards      █████████████░░░░░░░   65%
+```
+
+---
+
+## 🚀 Projets épinglés
 
 | Projet | Description | Domaine |
 |--------|-------------|---------|
-| 🏭 **[PrognoSense](https://github.com/SouleymaneDiallo04/Plateforme-de-Maintenance-Predictive-Industrielle)** | Maintenance prédictive industrielle : analyse vibratoire, détection d'anomalies, RUL, ISO 10816, copilot RAG, OPC-UA/MQTT, boucle GMAO. | `Industrial AI` |
+| 🏭 **[PrognoSense](https://github.com/SouleymaneDiallo04/Plateforme-de-Maintenance-Predictive-Industrielle)** | Maintenance prédictive industrielle : analyse vibratoire, détection d'anomalies, RUL, ISO 10816, copilot RAG, OPC-UA / MQTT, boucle GMAO. | `Industrial AI` |
 | 🌾 **[Grenier-Commun](https://github.com/SouleymaneDiallo04/Grenier-Commun_Plateforme-Intelligente-de-Gestion-Post-recolte)** | Plateforme AgriTech pour agriculteurs sénégalais : stockage connecté, warrantage, marketplace, chatbot IA, 4 langues. | `AgriTech` |
 | 🤖 **[QMS Chatbot](https://github.com/SouleymaneDiallo04/QMS_Chatbot)** | Chatbot qualité (ISO 9001 / IATF 16949) : recherche sémantique, audits, PFMEA — RAG multi-LLM. | `LLM / RAG` |
 | 🎓 **[AI-SmartHub](https://github.com/SouleymaneDiallo04/AI-SmartHub)** | Hub pédagogique IATD + 3 agents IA locaux (Ollama) : quiz, recherche, recommandation. Spring Boot + React. | `Full-stack IA` |
@@ -100,7 +133,7 @@
 
 ---
 
-## 📊 `$ htop --user=SouleymaneDiallo04`
+## 📈 Statistiques GitHub
 
 <div align="center">
 
@@ -111,26 +144,21 @@
 
 <img height="170" src="https://streak-stats.demolab.com?user=SouleymaneDiallo04&theme=tokyonight&hide_border=true"/>
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SouleymaneDiallo04&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SouleymaneDiallo04&theme=tokyo-night&hide_border=true&bg_color=00000000&color=00D4FF&line=6A5ACD&point=ffffff"/>
-
 </div>
 
 ---
 
+## 🤝 Collaborons
+
 <div align="center">
 
-### 💬 `$ nc -l collaboration`
+Une idée de projet en **IA industrielle**, **vision par ordinateur** ou **LLM / RAG** ? Discutons-en.
 
-Une idée de projet en **IA industrielle**, **vision** ou **LLM** ? Discutons-en.
+📫 **sd100615@gmail.com** · 💼 Disponible pour **stage / projet** · 🌍 **FR / EN**
 
-📫 **sd100615@gmail.com**
+<a href="https://www.linkedin.com/in/[TON-LINKEDIN]"><img src="https://img.shields.io/badge/Me%20contacter%20sur-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sd100615@gmail.com"><img src="https://img.shields.io/badge/M'%C3%A9crire-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:6A5ACD,100:0093AA&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,55:6A5ACD,100:0093AA&height=120&section=footer"/>
 
 </div>
