@@ -14,7 +14,11 @@
 <!-- ============================ EN-TÊTE (style Ange Bado) ============================ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:9D4EDD,100:FF6AC2&height=220&section=header&text=Souleymane%20Diallo&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Data%20Engineer%20%C2%B7%20ENSAM-Mekn%C3%A8s%20%C2%B7%20IATD-SI&descAlignY=58&descSize=18&v=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:9D4EDD,100:FF6AC2&height=180&section=header&v=3" width="100%"/>
+
+<h1>Souleymane Diallo</h1>
+
+<h3>AI &amp; Data Engineer · ENSAM-Meknès · IATD-SI</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=FF6AC2&center=true&vCenter=true&width=840&lines=%3E+booting+AI+engineer...+%E2%9C%93;Machine+Learning+%E2%9C%A8+Deep+Learning+%E2%9C%A8+Computer+Vision;Maintenance+Predictive+%E2%9C%A8+NLP+%E2%9C%A8+LLM+%2F+RAG;De+la+donnee+brute+a+la+decision+industrielle+%E2%9A%99%EF%B8%8F;Building+models.+Shipping+products.+Learning.+%F0%9F%9A%80" alt="Typing SVG" />
