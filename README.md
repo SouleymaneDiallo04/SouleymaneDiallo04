@@ -137,8 +137,13 @@ Frontend / Dashboards      █████████████░░░░�
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SouleymaneDiallo04&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouleymaneDiallo04&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SouleymaneDiallo04&theme=radical_purple"/>
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SouleymaneDiallo04&theme=radical_purple"/>
+
+<br/>
+
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SouleymaneDiallo04&theme=radical_purple"/>
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SouleymaneDiallo04&theme=radical_purple&utcOffset=1"/>
 
 <br/>
 
